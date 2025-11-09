@@ -1,0 +1,23 @@
+\033[38;2;251;73;52m         
+                        ^ 
+                       P?.
+                  .  :~JB57.
+                  J~ J? 7BPG7 ?!
+       ^:       ^JG~5GJ  ?B5#^YP          ^.
+       J5     75PB7 PGGJ7PG5G:^BY.       :B^
+      ^P5   ^GG5GY   7GPP55B^  PGP7      ^GY
+     ^PP?  .BG55BP    J&55P#!^^GP5GP.    .PP5.
+    ^G5P.   BP555BGJ?Y&#555PGGGP555&7.:   7GP5
+   .G5G?  :!?BPP55PGBBP555555555P5Y57~:    P5GJ
+   JG5B^   .^~!!?J55P555555PP5Y?~:^:.      JG5B^
+   GP5B^  :   ~5!..:~7JY5P5?~.  ~5G.   ..  JG5G?
+  .B55G7 .P  ~#PP5J^   .7?:  .75P5GP   !Y  PP5GJ
+   5G55G:.G7.^!PPPGGY7JPYJPYJPGPPGP^ ^.55 7G55B!
+   :GP5PP~5GPP7:?Y!5B5PPYYPP5BJ~?~ ^YGPB?7G55GY
+    :YPP5PG#5GP.   5GG5GPPBPGGY    ~BPG#PP5PP7
+      ^?5PPPP5P7^Y!.^~.?JJ?:7~.:J7^JP5GPP5Y7.
+         :!?J55PGBG5!        .JPGBGP5YJ7~:
+              .:~!?5GY      ^PPY?!^:.
+                    ^J7    .Y!.
+                      :    ..  \033[0m
+ 
