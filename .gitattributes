@@ -1,5 +1,10 @@
-# Make *.rc be recognized/highlighted as Shell by GitHub Linguist
-*.rc linguist-language=Shell
+# GitHub Linguist: trate estes arquivos como Shell
+*.rc    linguist-language=Shell
+*.txt   linguist-language=Shell
+*.conf  linguist-language=Shell
 
-# (Opcional) normalizar finais de linha em scripts
-*.rc text eol=lf
+# Normalizar EOL para LF nesses tipos
+*.{rc,txt,conf} text eol=lf
+
+# (Opcional) diffs mais legíveis como "Shell"
+*.{rc,txt,conf} diff=shell
