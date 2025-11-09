@@ -22,14 +22,22 @@ export OMB_USE_SUDO=true
 OSH_THEME="ht"
 
 # Enable Oh My Bash feature packs BEFORE sourcing:
-completions=( git composer ssh )
-aliases=( general )          # oh-my-bash's default aliases (we'll override later)
-plugins=( git bashmarks )
+completions=(
+  git
+  composer
+  ssh
+)
 
-# Load Oh My Bash
-if [ -s "$OSH/oh-my-bash.sh" ]; then
-  source "$OSH/oh-my-bash.sh"
-fi
+aliases=(
+  general
+)
+
+plugins=(
+  git
+  bashmarks
+)
+
+source "$OSH/oh-my-bash.sh"
 
 # --------------------------------------------------------------------
 # Shell options & history (quality-of-life)
@@ -163,5 +171,3 @@ extract() {
     *)           echo "don't know how to extract '$f'"; return 2 ;;
   esac
 }
-
-please() { sudo "$(history -p '!!')"; }        # repeat last command with sudo
