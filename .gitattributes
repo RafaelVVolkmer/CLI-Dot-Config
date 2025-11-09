@@ -1,0 +1,5 @@
+# Make *.rc be recognized/highlighted as Shell by GitHub Linguist
+*.rc linguist-language=Shell
+
+# (Opcional) normalizar finais de linha em scripts
+*.rc text eol=lf
