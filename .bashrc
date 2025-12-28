@@ -171,3 +171,9 @@ extract() {
     *)           echo "don't know how to extract '$f'"; return 2 ;;
   esac
 }
+
+# --------------------------------------------------------------------
+# gpg start
+# --------------------------------------------------------------------
+export GPG_TTY="$(tty)"
+gpgconf --launch gpg-agent
