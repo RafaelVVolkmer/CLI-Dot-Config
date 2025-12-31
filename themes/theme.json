@@ -1,0 +1,52 @@
+ {
+ "schemes": 
+    [
+        {
+            "background": "#071317",
+            "black": "#223344",
+            "blue": "#2255CC",
+            "brightBlack": "#556677",
+            "brightBlue": "#3377FF",
+            "brightCyan": "#33DDFF",
+            "brightGreen": "#33FF11",
+            "brightPurple": "#AA77FF",
+            "brightRed": "#FF1133",
+            "brightWhite": "#BBCCDD",
+            "brightYellow": "#FFDD33",
+            "cursorColor": "#DDEEFF",
+            "cyan": "#22BBDD",
+            "foreground": "#DDEEFF",
+            "green": "#33AA11",
+            "name": "Galizur",
+            "purple": "#7755AA",
+            "red": "#AA1122",
+            "selectionBackground": "#071317",
+            "white": "#8899AA",
+            "yellow": "#CCAA22"
+        },
+        {
+            "background": "#121212",
+            "black": "#929292",
+            "blue": "#97BEDC",
+            "brightBlack": "#BDBDBD",
+            "brightBlue": "#B1D8F6",
+            "brightCyan": "#1AB2A8",
+            "brightGreen": "#BDDEAB",
+            "brightPurple": "#FBDAFF",
+            "brightRed": "#FFA1A1",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FFDCA0",
+            "cursorColor": "#FFA560",
+            "cyan": "#00988E",
+            "foreground": "#DEDEDE",
+            "green": "#94B979",
+            "name": "Jellybeans",
+            "purple": "#E1C0FA",
+            "red": "#E27373",
+            "selectionBackground": "#474E91",
+            "white": "#DEDEDE",
+            "yellow": "#FFBA7B"
+        }
+    ],
+    "themes": []
+}
